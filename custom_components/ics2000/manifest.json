@@ -1,14 +1,10 @@
 {
   "domain": "ics2000",
-  "name": "KlikAanKlikUit ICS2000",
-  "documentation": "https://github.com/mhurk/ics2000-hass/tree/master/custom_components/ics2000",
-  "dependencies": [
-
-  ],
-  "codeowners": ["mhurk"],
-  "requirements": [
-    "ics2000@git+https://github.com/mhurk/ics2000-python.git"
-  ],
+  "name": "KlikAanKlikUit ICS2000 Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/mhurk/ics2000-hass",
+  "requirements": ["ics2000@git+https://github.com/mhurk/ics2000-python.git"],
+  "dependencies": [],
   "iot_class": "local_polling",
-  "version": "0.0.1"
+  "codeowners": ["mhurk"]
 }
