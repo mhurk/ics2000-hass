@@ -3,7 +3,7 @@
   "name": "KlikAanKlikUit ICS2000 Integration",
   "version": "1.0.1",
   "documentation": "https://github.com/mhurk/ics2000-hass",
-  "requirements": [],
+  "requirements": ["ics2000@git+https://github.com/rdegraafwhizzkit/ics2000-python.git"],
   "dependencies": [],
   "iot_class": "local_polling",
   "codeowners": ["mhurk"]
