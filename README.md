@@ -1,3 +1,5 @@
+Forked from: https://github.com/rdegraafwhizzkit/ics2000-hass
+
 # ICS-2000 Home Assistant integration
 
 This integration shows how you can use an ICS-2000 in Home Assistant.
