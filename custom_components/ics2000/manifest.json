@@ -1,7 +1,7 @@
 {
   "domain": "ics2000",
   "name": "KlikAanKlikUit ICS2000 Integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "documentation": "https://github.com/mhurk/ics2000-hass",
   "requirements": ["ics2000@git+https://github.com/rdegraafwhizzkit/ics2000-python.git"],
   "dependencies": [],
